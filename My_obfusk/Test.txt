@@ -1,2 +1,3 @@
-int count;
-bool flag;
+string name;
+int age;
+float count;
