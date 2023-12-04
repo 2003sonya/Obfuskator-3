@@ -57,12 +57,15 @@ namespace My_obfusk
 
         public void write(string str) /*запись текста в файл*/
         {
+	/*обработка ошибок*/
+	/*если всё ок, то:*/
             try
             {
                 StreamWriter sw = new StreamWriter("TextObf.txt");
                 sw.WriteLine(str);
                 sw.Close();
             }
+	/* в случае ошибки:*/
             catch (Exception e)
             {
                 Console.WriteLine("Exception: " + e.Message);
