@@ -10,5 +10,6 @@ namespace My_obfusk
     public class New_feature
     {
 	public New_feature(){}; /*конструктор*/
+/*поля:*/
     }
 }
