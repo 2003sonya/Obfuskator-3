@@ -1,0 +1,18 @@
+Human h1 = new Human();
+h1.Name = "Liza";
+h1.Name2 = "Ivanova";
+Console.WriteLine(h1.Name +" "+ h1.Name2);
+Console.WriteLine(h1.test(h1.Name));
+public class Human
+{
+	public string Name; /*имя  только русскими  буквами*/
+	public string Name2; /* фамилия должна быть полностью (если замужем, то 2 фимилии указать)*/
+	public int test(string n) /* метод, который необходим для подсчёта букв в имени и фамилии*/
+	{
+		int count=0;
+		count= n.Length;
+		return count;
+	}
+}
+
+

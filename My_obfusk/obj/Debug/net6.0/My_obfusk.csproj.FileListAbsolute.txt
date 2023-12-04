@@ -1,0 +1,14 @@
+D:\3 курс\пиминов исис\My_obfusk\bin\Debug\net6.0\My_obfusk.exe
+D:\3 курс\пиминов исис\My_obfusk\bin\Debug\net6.0\My_obfusk.deps.json
+D:\3 курс\пиминов исис\My_obfusk\bin\Debug\net6.0\My_obfusk.runtimeconfig.json
+D:\3 курс\пиминов исис\My_obfusk\bin\Debug\net6.0\My_obfusk.dll
+D:\3 курс\пиминов исис\My_obfusk\bin\Debug\net6.0\My_obfusk.pdb
+D:\3 курс\пиминов исис\My_obfusk\obj\Debug\net6.0\My_obfusk.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\пиминов исис\My_obfusk\obj\Debug\net6.0\My_obfusk.AssemblyInfoInputs.cache
+D:\3 курс\пиминов исис\My_obfusk\obj\Debug\net6.0\My_obfusk.AssemblyInfo.cs
+D:\3 курс\пиминов исис\My_obfusk\obj\Debug\net6.0\My_obfusk.csproj.CoreCompileInputs.cache
+D:\3 курс\пиминов исис\My_obfusk\obj\Debug\net6.0\My_obfusk.dll
+D:\3 курс\пиминов исис\My_obfusk\obj\Debug\net6.0\refint\My_obfusk.dll
+D:\3 курс\пиминов исис\My_obfusk\obj\Debug\net6.0\My_obfusk.pdb
+D:\3 курс\пиминов исис\My_obfusk\obj\Debug\net6.0\My_obfusk.genruntimeconfig.cache
+D:\3 курс\пиминов исис\My_obfusk\obj\Debug\net6.0\ref\My_obfusk.dll
