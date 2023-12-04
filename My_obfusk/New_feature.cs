@@ -1,4 +1,3 @@
-/*Класс для новой ветки с какой-нибудь приколюхой*/
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +9,7 @@ namespace My_obfusk
 {
     public class New_feature
     {
-	public New_feature(){};
+	public New_feature(){}; /*конструктор*/
+/*поля:*/
     }
 }
