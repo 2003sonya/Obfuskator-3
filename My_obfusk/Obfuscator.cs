@@ -15,7 +15,7 @@ namespace My_obfusk
         public string t ="";
         //public string str = "";
         // асинхронное чтение
-        public string read()  /* метод считывания кода из файла*/
+        public string read()  /*самый первый метод считывания кода из файла, путь которого указан в переменной path*/
         {
             StreamReader reader = new StreamReader(path);
             
