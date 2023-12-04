@@ -72,7 +72,7 @@ namespace My_obfusk
             }
         }
 
-	public int test(int count)
+	public float test(float count)
 	{
 		if (count>=10) return count;
 		return 10;
