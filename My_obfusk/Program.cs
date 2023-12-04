@@ -9,7 +9,7 @@ string s = o1.read();/* считываем*/
 s = o1.deadCode(s); /*добавляем мертвый код*/
 s = o1.deadPole(s); /*добавляем мертвый код*/
 o1.write(s);
-Console.WriteLine(s + "Test one");
+Console.WriteLine(s + "Test one is not for 01");
 
 
 
