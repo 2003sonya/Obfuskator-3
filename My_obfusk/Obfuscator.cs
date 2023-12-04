@@ -72,5 +72,11 @@ namespace My_obfusk
             }
         }
 
+	public int test(int count)
+	{
+		if (count>=10) return count;
+		return 10;
+	}
+
     }
 }
