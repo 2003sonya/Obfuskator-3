@@ -9,7 +9,7 @@ namespace My_obfusk
 {
     public class Obfuscator
     {
-        public Obfuscator() { } /*конструктор*/
+        public Obfuscator() { }
 
         public string path = "text_for_obf.txt";
         public string t ="";
